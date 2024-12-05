@@ -1,0 +1,8 @@
+[submodule "src/isaac_ros_common"]
+	path = src/isaac_ros_common
+	url = https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common.git
+	branch = release-3.1
+[submodule "src/isaac_ros_cumotion"]
+	path = src/isaac_ros_cumotion
+	url = https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_cumotion.git
+	branch = release-3.1
